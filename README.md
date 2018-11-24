@@ -1,2 +1,2 @@
 # DapperTest
-Test application to demonostrate some Dapper functionality
+Test application to demonstrate some Dapper functionality
