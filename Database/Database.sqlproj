@@ -65,6 +65,7 @@
     <Build Include="Tables\States.sql" />
     <Build Include="Tables\Addresses.sql" />
     <Build Include="StoredProcedures\Contacts_Del.sql" />
+    <Build Include="StoredProcedures\CreatePOCOs.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Script.PostDeployment1.sql" />
